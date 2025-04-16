@@ -3,6 +3,9 @@ package ru.job4j.calculator;
 import org.junit.jupiter.api.Test;
 import static org.assertj.core.api.Assertions.*;
 
+/**
+ * в этом файле надо что-то изменить, чтобы получился новый коммит
+ */
 class FitTest {
 
     @Test
