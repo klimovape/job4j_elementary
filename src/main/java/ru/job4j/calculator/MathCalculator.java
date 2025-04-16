@@ -2,7 +2,7 @@ package ru.job4j.calculator;
 
 import static ru.job4j.math.MathFunction.*;
 /**
- * И тут тоже пробую что-то кроме //
+ * И тут тоже пробую что-то кроме (двойной слеш даже внутри коммента бот мне забанил)
  */
 public class MathCalculator {
 
