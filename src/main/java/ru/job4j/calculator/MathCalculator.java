@@ -1,7 +1,9 @@
 package ru.job4j.calculator;
 
 import static ru.job4j.math.MathFunction.*;
-
+/**
+ * И тут тоже пробую что-то кроме //
+ */
 public class MathCalculator {
 
     public static double sumAndMultiply(double first, double second) {
